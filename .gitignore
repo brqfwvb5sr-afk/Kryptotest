@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+vault.json
+vault_export.json
+.env
+.DS_Store
